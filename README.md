@@ -1,3 +1,3 @@
 # my-first-project
-This is my first Git Repository. 
-Author: Yash Thakur
+This is my first Git Repository.
+<br>Author: Yash Thakur
